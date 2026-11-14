@@ -1,0 +1,53 @@
+1794680514.835 switch s2 configured
+1794680514.839 switch s3 configured
+1794680514.848 switch s1 configured
+1794680649.444 LINK FAILURE detected on s1 port 4
+1794680649.444 default traffic -> alt path
+1794680649.445 TOPIC sports -> alt path
+1794680649.447 TOPIC weather -> alt path
+1794680649.449 TOPIC news -> alt path
+1794680649.456 LINK FAILURE detected on s3 port 2
+1794680817.009 link restored on s1 port 4
+1794680817.012 link restored on s3 port 2
+1794680817.018 default traffic -> primary path
+1794680817.018 TOPIC sports -> primary path
+1794680817.019 TOPIC weather -> primary path
+1794680817.019 TOPIC news -> primary path
+1794680884.802 LINK FAILURE detected on s1 port 4
+1794680884.802 default traffic -> alt path
+1794680884.803 TOPIC sports -> alt path
+1794680884.803 TOPIC weather -> alt path
+1794680884.803 TOPIC news -> alt path
+1794680884.817 LINK FAILURE detected on s3 port 2
+1794680898.505 link restored on s1 port 4
+1794680898.526 link restored on s3 port 2
+1794680898.528 default traffic -> primary path
+1794680898.529 TOPIC sports -> primary path
+1794680898.530 TOPIC weather -> primary path
+1794680898.530 TOPIC news -> primary path
+1794681006.919 CONGESTION on s1-s3 link (83% utilised)
+1794681006.920 TOPIC sports -> alt path
+1794681006.922 TOPIC weather -> alt path
+1794681006.922 TOPIC news -> alt path
+1794681032.965 congestion cleared (7% utilised)
+1794681032.966 TOPIC sports -> primary path
+1794681032.966 TOPIC weather -> primary path
+1794681032.968 TOPIC news -> primary path
+1794681061.601 CONGESTION on s1-s3 link (85% utilised)
+1794681061.602 TOPIC sports -> alt path
+1794681061.602 TOPIC weather -> alt path
+1794681061.603 TOPIC news -> alt path
+1794681087.647 congestion cleared (0% utilised)
+1794681087.648 TOPIC sports -> primary path
+1794681087.648 TOPIC weather -> primary path
+1794681087.648 TOPIC news -> primary path
+1794681200.019 MODE -> app
+1794681348.519 TOPIC sports -> alt path
+1794681348.548 CONGESTION on s1-s3 link (91% utilised)
+1794681374.601 congestion cleared (7% utilised)
+1794681597.919 CONGESTION on s1-s3 link (74% utilised)
+1794681624.996 congestion cleared (0% utilised)
+1794681773.400 TOPIC sports -> primary path
+1794681842.567 TOPIC sports -> alt path
+1794681842.575 CONGESTION on s1-s3 link (83% utilised)
+1794681868.651 congestion cleared (0% utilised)
